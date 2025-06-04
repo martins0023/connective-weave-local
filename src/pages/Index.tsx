@@ -1,9 +1,8 @@
-
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import Navigation from "@/components/Navigation";
-import { Users, MessageSquare, Calendar, Bell, Arrow, ArrowRight } from "lucide-react";
+import { Users, MessageSquare, Calendar, Bell, ArrowRight } from "lucide-react";
 
 const Index = () => {
   const features = [
